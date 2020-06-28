@@ -1,0 +1,87 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: picom
+Upstream-Contact: yshui <yshuiv7@gmail.com>
+Source: https://github.com/yshui/picom
+
+Files: *
+Copyright: 2020 Adam Jackson <ajax@nwnk.net>
+           2020 Alexander Kapshuna <kapsh@kap.sh>
+           2020 Antonin Décimo <antonin.decimo@gmail.com>
+           2020 Antonio Vivace <dev@avivace.com>
+           2020 Avi-D-coder <avi.the.coder@gmail.com>
+           2020 Ben Friesen <bfriesen95@gmail.com>
+           2020 Bernd Busse <bernd@busse-net.de>
+           2020 Brottweiler <tibell.christoffer@gmail.com>
+           2020 Carl Worth <cworth@cworth.org>
+           2020 Christopher Jeffrey <chjjeffrey@gmail.com>
+           2020 Corax26 <cor.ax26@gmail.com>
+           2020 Dan Elkouby <streetwalkermc@gmail.com>
+           2020 Dana Jansens <danakj@orodu.net>
+           2020 Dave Airlie <airlied@linux.ie>
+           2020 David Schlachter
+           2020 dolio
+           2020 Duncan <duncan.britton@outlook.com>
+           2020 Dylan Araps <dylan.araps@gmail.com>
+           2020 Einar Lielmanis <einars@gmail.com>
+           2020 Eric Anholt <anholt@freebsd.org> <eric@anholt.net>
+           2020 Greg Flynn
+           2020 hasufell <julian.ospald@googlemail.com>
+           2020 James Cloos <cloos@jhcloos.com>
+           2020 Jamey Sharp <jamey@minilop.net>
+           2020 Jan Beich <jbeich@FreeBSD.org>
+           2020 Jarrad <jarrad.whitaker@gmail.com>
+           2020 Javeed Shaikh <syscrash2k@gmail.com>
+           2020 Jerónimo Navarro <jnavarro@ancasrl.com.ar>
+           2020 Keith Packard <keithp@keithp.com>
+           2020 Kevin Kelley <kelleyk@kelleyk.net>
+           2020 mæp <m.aep@live.com>
+           2020 Mark Tiefenbruck <mark@fluxbox.org>
+           2020 Matthew Allum <breakfast@10.am>
+           2020 Maxim Solovyov <visleaf@protonmail.com>
+           2020 Michael Reed <supertron421@gmail.com>
+           2020 Michele Lambertucci <michele.lambertucci@mail.polimi.it>
+           2020 Namkhai Bourquin <namkhai.n3@protonmail.com>
+           2020 Nate Hart <nejthan@gmail.com>
+           2020 notfoss <static.vortex@gmx.com>
+           2020 @Paradigm0001
+           2020 Patrick Collins <Patricol@users.noreply.github.com>
+           2020 Peter Mattern <matternp@arcor.de>
+           2020 Phil Blundell <pb@reciva.com>
+           2020 Que Quotion <quequotion@bugmenot.com>
+           2020 Richard Grenville <pyxlcy@gmail.com>
+           2020 Rytis Karpuska <rytis.karpuska@gmail.com>
+           2020 Scott Leggett <scott@sl.id.au>
+           2020 Tasos Sahanidis <tasos@tasossah.com>
+           2020 Tilman Sauerbeck <tilman@code-monkey.de>
+           2020 Tim van Dalen <Tim@timvdalen.nl>
+           2020 Tomas Janousek <tomi@nomi.cz>
+           2020 Uli Schlachter <psychon@znc.in>
+           2020 Walter Lapchynski <wxl@ubuntu.com>
+           2020 Will Dietz <w@wdtz.org>
+           2020 XeCycle <XeCycle@Gmail.com>
+           2020 Yuxuan Shui <yshuiv7@gmail.com>
+           2020 ಠ_ಠ <easteregg@verfriemelt.org>
+License: MIT
+
+Files: debian/*
+Copyright: 2020 Zhihsian Que <i@zhihsian.me>
+License: MIT
+
+License: MIT
+ Permission is hereby granted, free of charge, to any person obtaining a
+ copy of this software and associated documentation files (the "Software"),
+ to deal in the Software without restriction, including without limitation
+ the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ and/or sell copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included
+ in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
